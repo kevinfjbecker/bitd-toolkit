@@ -16,6 +16,12 @@ Examples and Resources for Blades in the Dark
 
 > A short tips & techniques video about how to introduce the Action Roll into the flow of play in the tabletop rpg Blades in the Dark.
 
+#### Obstacles & Action Rolls in Blades in the Dark
+
+[YouTube](https://youtu.be/fr5ZQAECcps?si=knxBnPmCg7PB1Wt6)
+
+> ... an overview of the new Blades in the Dark simplified reference sheets, focusing on how to introduce obstacles and make action rolls.
+
 ### Knights of the Last Call
 
 #### Blades in the Dark - Overview and Discussion
@@ -60,4 +66,4 @@ Examples and Resources for Blades in the Dark
 
 [PDF](https://www.thealexandrian.net/creations/bladesinthedark/bladesinthedark-cheat-sheet-v3.pdf) / [Page link](https://thealexandrian.net/wordpress/41025/roleplaying-games/blades-in-the-dark-system-cheat-sheet-v3)
 
-> this cheat sheet is designed to summarize all of the rules for running the game — from Action Roll resolutions to Downtime activities. It is not, however, designed to be a quick start packet: If you want to learn how to play Blades in the Dark, you’ll want to read through the core rulebook. These cheat sheets are a long-term resource for both GMs and players, and can serve as a great tool for experienced players teaching newcomers, but it’s a cheat sheet, not a textbook.
+> ... this cheat sheet is designed to summarize all of the rules for running the game — from Action Roll resolutions to Downtime activities.
