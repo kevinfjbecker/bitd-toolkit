@@ -36,6 +36,14 @@ Examples and Resources for Blades in the Dark
 
 > We'll take about setting postion and effect, understanding consequences from Action rolls, how to pace Scores, Downtime, and Free Play and how to encourage your players to give up their old d20 ways in order to embrace what the game system has to offer.
 
+#### Mastering the Art of PbtA and Forged in the Dark - Strategies for common problems
+
+[YouTube](https://www.youtube.com/live/t5gJJwL-78c?si=zIm8-lQsyCqeH7ZB) (03:25:58)
+
+#### More Tips and Tricks for PbtA and FitD - Dungeon World Blades in the Dark & More
+
+[YouTube](https://www.youtube.com/live/EcdRpbNCvkg?si=6SDwqYsc4Z-IPckT) (02:18:34)
+
 ## Live Play
 
 ### Blood letters
