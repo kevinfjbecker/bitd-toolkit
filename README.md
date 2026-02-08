@@ -40,10 +40,6 @@ Examples and Resources for Blades in the Dark
 
 [YouTube](https://www.youtube.com/live/t5gJJwL-78c?si=zIm8-lQsyCqeH7ZB) (03:25:58)
 
-#### More Tips and Tricks for PbtA and FitD - Dungeon World Blades in the Dark & More
-
-[YouTube](https://www.youtube.com/live/EcdRpbNCvkg?si=6SDwqYsc4Z-IPckT) (02:18:34)
-
 ## Live Play
 
 ### Blood letters
